@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Rock the cradle John, or,] Children after the rate of 24 in a yeare thats 2 euery month as plaine doth appeare, Let no man at this strang [sic] story wonder. It goes to the tune of Ouer and under.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73045</idno>
+            <idno type="STC">STC 20320.5</idno>
+            <idno type="STC">ESTC S5221</idno>
+            <idno type="EEBO-CITATION">39960684</idno>
+            <idno type="OCLC">ocm 39960684</idno>
+            <idno type="VID">150523</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73045)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150523)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1950:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Rock the cradle John, or,] Children after the rate of 24 in a yeare thats 2 euery month as plaine doth appeare, Let no man at this strang [sic] story wonder. It goes to the tune of Ouer and under.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>2 leaves : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[ca. 1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>One cut, on left half-sheet.</note>
+                  <note>Signed at end of second part: Finis. Lau. Price.</note>
+                  <note>Right half-sheet contains: The second part. To the same tune.</note>
+                  <note>Imperfect: cropped, with loss of title (supplied from STC 2nd ed.), stained.</note>
+                  <note>Reproduction of original in: Pepys Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150523:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>
+               <l>Children after the rate of 24 in a yeare,</l>
+               <l>Thats 2. euery month as plaine doth appeare,</l>
+               <l>Let no man at this ſtrang ſtory wonder.</l>
+               <l>It goes to the tune, <hi>of Ouer and Vnder.</hi>
+               </l>
+            </head>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THere was a country gallant,</l>
+                  <l>that waſted had his tallent,</l>
+                  <l>Not dreading what would fall out,</l>
+                  <l>would néeds a wooing ride;</l>
+                  <l>Vnto a laſſe of the citty,</l>
+                  <l>that courteous was and pritty,</l>
+                  <l>This damſell neat and witty;</l>
+                  <l>hée would goe make his Bride:</l>
+                  <l>This laſſe ſhe had of wealth good ſtore,</l>
+                  <l>her ſtocke was threſcore pound and more,</l>
+                  <l>Though ſome ſuppoſed her to be poore,</l>
+                  <l>the ſame hath late beene tried.</l>
+                  <lg type="refrain">
+                     <l>Rocke the Cradle, rocke the Cradle,</l>
+                     <l>rocke the cradle Iohn,</l>
+                     <l>Ther's many a man rockes the cradle,</l>
+                     <l>when the childs none of his owne.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Vnto this laſſe, incontinent,</l>
+                  <l>the young-man went with good intent,</l>
+                  <l>His loue was fixed and firmely bent,</l>
+                  <l>to take her to his wife:</l>
+                  <l>Quoth he my ſwéet, while life doth laſt,</l>
+                  <l>my heart is in thy boſome placed,</l>
+                  <l>Let not my ſute be now diſgraced,</l>
+                  <l>Ile loue thee as my life:</l>
+                  <l>Said ſhe your ſuit I muſt deny,</l>
+                  <l>for I haue vowed a maid to dye,</l>
+                  <l>If I loſe my virginity,</l>
+                  <l>it ſure will breed much ſtrife.</l>
+                  <lg type="refrain">
+                     <l>Rocke the cradle, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I haue béene wooed by Harry,</l>
+                  <l>but I indéed will tarry,</l>
+                  <l>I neuer meane to marry,</l>
+                  <l>while I on earth remaine:</l>
+                  <l>Sweet William and young Thomas too,</l>
+                  <l>and Richard hath made much adoe,</l>
+                  <l>And Ned with teares did often wee,</l>
+                  <l>but Humphry did complaine,</l>
+                  <l>All theſe brane gallants I forſake,</l>
+                  <l>I prethee Iohn no more words make,</l>
+                  <l>But to ſome other courſe betake,</l>
+                  <l>I doe thy ſute diſdayne:</l>
+                  <lg type="refrain">
+                     <l>Goe rocke the cradle, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The man no whit diſmayed,</l>
+                  <l>at that which ſhe had ſaid.</l>
+                  <l>But with his ſweet heart ſtayed,</l>
+                  <l>and did requeſt her ſtill:</l>
+                  <l>He did intreat her fauour,</l>
+                  <l>twas all that hee did craue her,</l>
+                  <l>That he might onely haue her,</l>
+                  <l>his fancy to fulfill:</l>
+                  <l>My heart doth fry in <hi>Cupids</hi> fire,</l>
+                  <l>thy beauty I doe much admire,</l>
+                  <l>Then yeild my loue to my deſire,</l>
+                  <l>or elſe a man you kil:</l>
+                  <lg type="refrain">
+                     <l>Rocke the cradle, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>When ſhe her ſelfe did vnderſtand,</l>
+                  <l>ſhe had a foole caught by the hand,</l>
+                  <l>Her ſhip ſhe knew was ſoundly maned,</l>
+                  <l>her belly wondrous round:</l>
+                  <l>Thought ſhe this is a friend of mine,</l>
+                  <l>its beſt make hay while ſunne doth ſhine,</l>
+                  <l>Yet to ſome thing I will him ioyne,</l>
+                  <l>before my fault be found,</l>
+                  <l>Said ſhe if I be made thy wife,</l>
+                  <l>thou muſt me humour all thy life,</l>
+                  <l>And carefull be for feare of ſtrife.</l>
+                  <l>like to a prentiſe bound.</l>
+                  <lg type="refrain">
+                     <l>Rocke the cradle, &amp;c.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:150523:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 16 -->
+               <head>The ſecond part.</head>
+               <opener>To the ſame tune.</opener>
+               <lg>
+                  <l>IN the morning if I thee deſire,</l>
+                  <l>thou muſt riſe vp and make a fire,</l>
+                  <l>And other things I ſhall require,</l>
+                  <l>which thou muſt vndertake:</l>
+                  <l>My breakefaſt thou muſt dreſſe alſo,</l>
+                  <l>that I from bed to it may goe,</l>
+                  <l>All theſe hard tasks and many more,</l>
+                  <l>thou muſt not then forſake,</l>
+                  <l>To bruſh my gowne and ſet my band,</l>
+                  <l>make cleane my ſhooes at my command,</l>
+                  <l>Thy buſineſſe thou muſt vnderſtand,</l>
+                  <l>if I the word but ſpeake.</l>
+                  <lg type="refrain">
+                     <l>Rocke the cradle, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>And when we chance to haue a child,</l>
+                  <l>thou muſt like to a father milde,</l>
+                  <l>Vnto the ſame be reconciled,</l>
+                  <l>and daunce it on thy knee:</l>
+                  <l>Or if the infant cry for pap,</l>
+                  <l>thou then muſt take it in thy lap,</l>
+                  <l>And feed it well what euer hap,</l>
+                  <l>if Iohn will marry mee:</l>
+                  <l>Thou muſt take pains as thou art able,</l>
+                  <l>to make the bed and ſerve at table,</l>
+                  <l>And lay the young one in the cradle,</l>
+                  <l>whilſt I ſing merrily.</l>
+                  <lg type="refrain">
+                     <l>Rocke the cradle, &amp;c.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Sweet heart quoth he to pleaſe thee,</l>
+                  <l>Ile doe all things to eaſe thee,</l>
+                  <l>I will not once diſeaſe thee,</l>
+                  <l>nor yet my loue offend thée,</l>
+                  <l>My hands vnder your feete Ile lay,</l>
+                  <l>the winde ſhall not my loue annoy,</l>
+                  <l>S<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e thou wilt be mine onely ioy,</l>
+                  <l>Ile loue the to the end,</l>
+                  <l>Ile make the bed the houſe ile ſweep,</l>
+                  <l>and lull thée baby faſt aſléepe,</l>
+                  <l>What you command my ſelfe will keepe,</l>
+                  <l>and will my humour bend:</l>
+                  <lg type="refrain">
+                     <l>Rocke the cradle, &amp;c.</l>
+                  </lg>
+                  <lg>
+                     <l>To this they both agréed,</l>
+                     <l>and marryed were with ſpeed,</l>
+                     <l>For ſhe had wondrous need,</l>
+                     <l>as you ſhall heare hereafter:</l>
+                     <l>The ſame day moneth that they were wedde</l>
+                     <l>the married man was finely ſpedde,</l>
+                     <l>His wife was ſafely brought to bed,</l>
+                     <l>and had both ſonne and daughter,</l>
+                     <l>Which by the midwife in was brought,</l>
+                     <l>quoth ſhe you haue a ſtrange thing wroght</l>
+                     <l>Two children in a month begot,</l>
+                     <l>and ſo tooke vp a laughter.</l>
+                     <lg type="refrain">
+                        <l>Rocke the cradle, rocke the cradle,</l>
+                        <l>rocke the cradle Iohn,</l>
+                        <l>Said hee the children I will rocke,</l>
+                        <l>for why they be mine owne.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>He kiſt the girle and loued the boy,</l>
+                     <l>ſaid he you are your fathers Ioy,</l>
+                     <l>Thers many are in great annoy,</l>
+                     <l>becauſe they haue no childe:</l>
+                     <l>I knew a Lord and Lady faire,</l>
+                     <l>that did deſire to haue an heire,</l>
+                     <l>Now I my ſelfe haue got a paire,</l>
+                     <l>and they are both beguild,</l>
+                     <l>My wife is frutefull now I ſee,</l>
+                     <l>and will ſome great increaſe bring mee,</l>
+                     <l>They are your owne aſſuredly,</l>
+                     <l>then ſaid the mid-wife milde,</l>
+                     <lg type="refrain">
+                        <l>Rocke the cradle, &amp;c.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>See here the boy is like the dad,</l>
+                     <l>which well may make your heart ful glad</l>
+                     <l>Cheere vp your ſelfe and be not ſad,</l>
+                     <l>for that which here is done:</l>
+                     <l>His ruby lips doe plaine diſcloſe,</l>
+                     <l>his cherry cheeks and dads owne noſe,</l>
+                     <l>For twenty pound, I will not loſe,</l>
+                     <l>quoth he my little ſonne:</l>
+                     <l>Soe well content this foole was found,</l>
+                     <l>he leapt for ioy aboue the ground,</l>
+                     <l>Did ſorrowes ſhall quoth he be dround,</l>
+                     <l>ſince new are freſh begun:</l>
+                     <lg type="refrain">
+                        <l>Rocke the cradle, Iog the cradle,</l>
+                        <l>thus Ile haue it knowne,</l>
+                        <l>I loue to rocke the cradle,</l>
+                        <l>the children be mine owne.</l>
+                     </lg>
+                  </lg>
+                  <lg>
+                     <l>Al you which now haue heard this dittie,</l>
+                     <l>take heed with wiues how you doe fit ye</l>
+                     <l>For if you came to London city,</l>
+                     <l>you quickely may be ſped</l>
+                     <l>As here you ſée this country Lad,</l>
+                     <l>within one Moneth was made a Dad</l>
+                     <l>Though he but little ſhare int had,</l>
+                     <l>his wife was brought to bed,</l>
+                     <l>And now this ſimple woodkocke,</l>
+                     <l>the cradle is conſtrained to rocke,</l>
+                     <l>His neighbours doth deride and mocke,</l>
+                     <l>cauſe he is ſo beſtead,</l>
+                     <l>They ſhoute and cry, and to him ſay,</l>
+                     <l>ſtill the Children Iohn,</l>
+                     <l>Tis enough to make the man,</l>
+                     <l>to thinke they be none of his owne.</l>
+                  </lg>
+               </lg>
+            </div>
+            <closer>
+               <signed>Lau. Price</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed for E.B.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
